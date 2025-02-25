@@ -1,0 +1,11 @@
+name: dart_week4_assignment
+description: Dart utilities for string manipulation, collections, file handling, and date-time operations.
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'  # Required SDK constraint
+
+dependencies:
+  intl: ^0.18.0  # Latest version for date formatting and parsing
+
+dev_dependencies:
+  test: ^1.24.0  # For unit testing (optional)
